@@ -1,0 +1,16 @@
+GET https://hesse-core-staging.herokuapp.com/api/brands 
+###
+GET https://hesse-core-staging.herokuapp.com/api/colors
+###
+GET https://hesse-core-staging.herokuapp.com/api/macro-sizes
+###
+GET https://hesse-core-staging.herokuapp.com/api/brands
+###
+GET https://hesse-core-staging.herokuapp.com/api/product-categories
+###
+GET https://hesse-core-staging.herokuapp.com/api/products?sort[0]=sortSuggested,name&populate=mainImage,variants,variants.size,subscriptionType
+### filter by value subscription
+GET https://hesse-core-staging.herokuapp.com/api/products?populate=subscriptionType&filters[subscriptionType][name][$eq]=Gold
+### product detail
+GET https://hesse-core-staging.herokuapp.com/api/products/1?populate=mainImage,images,variants,variants.size,subscriptionType,productCategories
+### 

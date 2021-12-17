@@ -1,0 +1,25 @@
+{
+  "global": {
+    "search": "XX",
+    "continue": "XX",
+    "done": "XX",
+    "remove": "XX",
+    "cancel": "XX",
+    "about": "XX",
+    "help": "XX",
+    "edit": "XX",
+    "add": "XX",
+    "open": "XX",
+    "closed": "XX",
+    "days": {
+      "monday": "XX",
+      "tuesday": "XX",
+      "wednesday": "XX",
+      "thursday": "XX",
+      "friday": "XX",
+      "saturday": "XX",
+      "sunday": "XX"
+    },
+    "xMinutes": "XX"
+  }
+}

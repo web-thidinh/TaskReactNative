@@ -1,0 +1,72 @@
+{
+  "global": {
+    "search": "Search",
+    "continue": "Continue",
+    "done": "Done",
+    "remove": "Remove",
+    "cancel": "Cancel",
+    "about": "About",
+    "help": "Help",
+    "edit": "Edit",
+    "add": "Add",
+    "open": "Open",
+    "closed": "Closed",
+    "days": {
+      "monday": "Monday",
+      "tuesday": "Tuesday",
+      "wednesday": "Wednesday",
+      "thursday": "Thursday",
+      "friday": "Friday",
+      "saturday": "Saturday",
+      "sunday": "Sunday"
+    },
+    "xMinutes": "{{minutes}} minutes",
+    "color": "Color"
+  },
+  "navigation": {
+    "home": "Home",
+    "login": "Login",
+    "catalogue": "Catalogue",
+    "closet": "Closet",
+    "portfolio": "Portfolio"
+  },
+  "catalogue": {
+    "perMonth": "Per month",
+    "silver": "Silver",
+    "gold": "Gold",
+    "platinum": "Platinum",
+    "apply": "Apply",
+    "cancel": "Cancel",
+    "price": "Valore",
+    "filter": "Filter",
+    "valore": "Valore"
+  },
+  "filter": {
+    "remove": "Remove",
+    "confirm": "Confirm",
+    "available": "Available",
+    "sortBy": "Sort by",
+    "latestArrivals": "Latest arrivals",
+    "recommended": "Recommended",
+    "brand": "Brand",
+    "size": "Size",
+    "items": "Items"
+  },
+  "product": {
+    "productDetails": "Product details",
+    "sizeGuide": "Size guide",
+    "material": "Material",
+    "fit": "Fit",
+    "flanks": "Flanks",
+    "leg": "Leg",
+    "vita": "Vita",
+    "similarProductions": "Similar Products",
+    "modeForm": "More from"
+  },
+  "login": {
+    "signInAnon": "Sign in anonymously"
+  },
+  "profile": {
+    "signOut": "Sign out"
+  }
+}

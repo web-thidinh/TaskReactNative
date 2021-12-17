@@ -1,0 +1,1 @@
+export const CLEAR_MISC_STATE = 'CLEAR_MISC_STATE'
